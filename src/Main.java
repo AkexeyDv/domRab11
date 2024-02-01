@@ -14,5 +14,6 @@ public class Main {
 
     {
         visoGod(1600);
+
     }
 }
